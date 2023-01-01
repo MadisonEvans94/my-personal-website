@@ -23,3 +23,7 @@ h1 {
 .descriptor {
 	margin: 2rem 0;
 }
+
+#prof-pic {
+	width: 10rem;
+}
